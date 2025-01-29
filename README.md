@@ -1,6 +1,5 @@
 ## Nightly Builds  
 
----
 ### Latest (2025-01-29)
 | Platform                 | Installer Type     | Download Link |
 |--------------------------|-------------------|--------------|
