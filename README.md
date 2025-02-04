@@ -13,8 +13,8 @@
 |                          | Portable  (arm64) | [🔗 Download (arm64)](https://github.com/usebruno/bruno-nightly-builds/releases/download/v1.39.0-2025.2.4/bruno_1.39.0-2025.2.4_arm64_linux.AppImage) |
 | **Linux (RPM - Fedora/RedHat)** | Installer (aarch64) (.rpm) | [🔗 Download (aarch64)](https://github.com/usebruno/bruno-nightly-builds/releases/download/v1.39.0-2025.2.4/bruno_1.39.0-2025.2.4_aarch64_linux.rpm) |
 |                          | Installer (x86_64) (.rpm) | [🔗 Download (x86_64)](https://github.com/usebruno/bruno-nightly-builds/releases/download/v1.39.0-2025.2.4/bruno_1.39.0-2025.2.4_x86_64_linux.rpm) |
-| **Windows x64**          | Installer (.exe)  | [🔗 Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v1.39.0-2025.2.4/bruno_1.39.0_x64_win.exe) |
-|                          | Portable (.zip)   | [🔗 Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v1.39.0-2025.2.4/bruno_1.39.0_x64_win.zip) |
+<!-- | **Windows x64**          | Installer (.exe)  | [🔗 Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v1.39.0-2025.2.4/bruno_1.39.0_x64_win.exe) |
+|                          | Portable (.zip)   | [🔗 Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v1.39.0-2025.2.4/bruno_1.39.0_x64_win.zip) | -->
 
 ---
 
