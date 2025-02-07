@@ -11,13 +11,10 @@
 |                          | Portable  (arm64) | [🔗 Download (arm64)](https://github.com/usebruno/bruno-nightly-builds/releases/download/v1.39.0-2025.2.5/bruno_1.39.0-2025.2.5_arm64_linux.AppImage) |
 | **Linux (RPM - Fedora/RedHat)** | Installer (x86_64) (.rpm) | [🔗 Download (x86_64)](https://github.com/usebruno/bruno-nightly-builds/releases/download/v1.39.0-2025.2.5/bruno_1.39.0-2025.2.5_x86_64_linux.rpm) |
 |                          | Installer (aarch64) (.rpm) | [🔗 Download (aarch64)](https://github.com/usebruno/bruno-nightly-builds/releases/download/v1.39.0-2025.2.5/bruno_1.39.0-2025.2.5_aarch64_linux.rpm) |
-
-<!--
 | **Mac Apple Silicon**    | Installer (.dmg)  | [🔗 Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v1.39.0-2025.2.5/bruno_1.39.0-2025.2.5_arm64_mac.dmg) |
 |                          | Portable (.zip)   | [🔗 Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v1.39.0-2025.2.5/bruno_1.39.0-2025.2.5_arm64_mac.zip) |
 | **Mac x64**              | Installer (.dmg)  | [🔗 Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v1.39.0-2025.2.5/bruno_1.39.0-2025.2.5_x64_mac.dmg) |
 |                          | Portable (.zip)   | [🔗 Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v1.39.0-2025.2.5/bruno_1.39.0-2025.2.5_x64_mac.zip) |
--->
 
 
 
