@@ -16,7 +16,7 @@ jobs:
         id: fetch-releases
         run: |
           echo "Fetching releases..."
-          releases=$(curl -s "https://api.github.com/repos/${{ github.repository }}/releases" | jq '[.[] | select(.draft == false)]')
+          releases=$(curl -s "https://api.github.com/repos/${{ github.repository }}/releases?per_page=100" | jq '[.[] | select(.draft == false)] | sort_by(.published_at) | reverse')
           echo "$releases" > releases.json
 
           latest=$(echo "$releases" | jq '.[0]')
@@ -64,7 +64,7 @@ jobs:
           echo "  <summary>Previous Releases</summary>" >> README.md
           echo "" >> README.md
 
-          releases=$(cat releases.json | jq -c '. | sort_by(.published_at) | reverse')
+          releases=$(cat releases.json)
 
           echo "$releases" | jq -c '.[] | select(.tag_name != env.LATEST_TAG)' | while read -r release; do
             tag=$(echo "$release" | jq -r '.tag_name')
