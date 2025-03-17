@@ -1,8 +1,21 @@
 ## Nightly Builds
 
-### Latest (2025-03-10)
+### Latest (2025-03-17)
 | Platform                 | Installer Type     | Download Link |
 |--------------------------|-------------------|--------------|
+| **Mac Apple Silicon** | Installer (.dmg) | [🔗 Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v1.40.0_2025.3.17/bruno_1.40.0_arm64_mac.dmg) |
+| **Mac Apple Silicon** | Portable (.zip) | [🔗 Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v1.40.0_2025.3.17/bruno_1.40.0_arm64_mac.zip) |
+| **Mac x64** | Portable (.zip) | [🔗 Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v1.40.0_2025.3.17/bruno_1.40.0_x64_mac.zip) |
+| **Mac x64** | Installer (.dmg) | [🔗 Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v1.40.0_2025.3.17/bruno_1.40.0_x64_mac.dmg) |
+
+---
+
+<details>
+  <summary>Previous Releases</summary>
+
+### v1.39.1-2025.3.10 (2025-03-10)
+| Platform | Installer Type | Download Link |
+|----------|---------------|--------------|
 | **Mac x64** | Installer (.dmg) | [🔗 Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v1.39.1-2025.3.10/bruno_1.39.1_x64_mac.dmg) |
 | **Mac Apple Silicon** | Installer (.dmg) | [🔗 Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v1.39.1-2025.3.10/bruno_1.39.1_arm64_mac.dmg) |
 | **Mac x64** | Portable (.zip) | [🔗 Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v1.39.1-2025.3.10/bruno_1.39.1_x64_mac.zip) |
@@ -15,11 +28,6 @@
 | **Linux (RPM - Fedora/RedHat)** | Installer (x86_64) (.rpm) | [🔗 Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v1.39.1-2025.3.10/bruno_1.39.1_x86_64_linux.rpm) |
 | **Windows x64** | Portable (.zip) | [🔗 Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v1.39.1-2025.3.10/bruno_1.39.1-2025.3.10_x64_win.zip) |
 | **Windows x64** | Installer (.exe) | [🔗 Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v1.39.1-2025.3.10/bruno_1.39.1-2025.3.10_x64_win.exe) |
-
----
-
-<details>
-  <summary>Previous Releases</summary>
 
 ### v1.39.1-2025.3.4 (2025-03-04)
 | Platform | Installer Type | Download Link |
