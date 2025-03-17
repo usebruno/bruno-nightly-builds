@@ -2,8 +2,6 @@ name: Update README with Nightly Builds
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "0 0 * * *"  # Runs daily at midnight UTC
 
 jobs:
   update-readme:
