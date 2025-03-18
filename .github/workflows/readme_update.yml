@@ -1,7 +1,9 @@
 name: Update README with Nightly Builds
 
 on:
-  workflow_dispatch:
+  release:
+    types: [published, edited]  # Triggers on new releases and modifications
+  workflow_dispatch:  # Allows manual execution
 
 jobs:
   update-readme:
