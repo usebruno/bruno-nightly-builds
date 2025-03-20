@@ -1,4 +1,4 @@
-## v2.0.0
+# v2.0.0
 | Platform                 | Installer Type     | Download Link |
 |--------------------------|-------------------|--------------|
 | **Mac x64** | Portable (.zip) | [🔗 Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v2.0.0/bruno_2.0.0_x64_mac.zip) |
