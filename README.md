@@ -1,6 +1,6 @@
 ## Nightly Builds
 
-### Latest (2025-03-26)
+### Latest v2.0.1 (2025-03-26)
 | Platform                 | Installer Type     | Download Link |
 |--------------------------|-------------------|--------------|
 | **Mac x64** | Portable (.zip) | [🔗 Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v2.0.1_2025.3.26/bruno_2.0.1_x64_mac.zip) |
