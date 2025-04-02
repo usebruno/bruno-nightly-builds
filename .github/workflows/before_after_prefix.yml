@@ -1,0 +1,59 @@
+name: Rename Release Artifacts
+
+on:
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: "GitHub tag containing the artifacts"
+        required: true
+      before_prefix:
+        description: "Old artifact prefix (e.g., bruno_2.0.1)"
+        required: true
+      after_prefix:
+        description: "New artifact prefix (e.g., bruno_2.1.0)"
+        required: true
+
+jobs:
+  rename-artifacts:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install GitHub CLI
+        run: sudo apt update && sudo apt install -y gh jq
+
+      - name: Authenticate GitHub CLI
+        run: echo "${{ secrets.GITHUB_TOKEN }}" | gh auth login --with-token
+
+      - name: Fetch existing release assets
+        run: |
+          RELEASE_ID=$(gh release view ${{ github.event.inputs.tag }} --json id -q ".id")
+          ASSETS=$(gh api repos/${{ github.repository }}/releases/$RELEASE_ID/assets --jq '.[] | select(.name | startswith("${{ github.event.inputs.before_prefix }}")) | {id: .id, name: .name}')
+
+          echo "$ASSETS" | jq -c '. | {id: .id, old_name: .name, new_name: (.name | sub("^${{ github.event.inputs.before_prefix }}"; "${{ github.event.inputs.after_prefix }}"))}' > assets.json
+
+      - name: Download and Re-upload Renamed Artifacts
+        run: |
+          RELEASE_ID=$(gh release view ${{ github.event.inputs.tag }} --json id -q ".id")
+
+          cat assets.json | jq -c '.' | while read line; do
+            ASSET_ID=$(echo $line | jq -r '.id')
+            OLD_NAME=$(echo $line | jq -r '.old_name')
+            NEW_NAME=$(echo $line | jq -r '.new_name')
+
+            echo "Processing $OLD_NAME -> $NEW_NAME"
+
+            # Download the artifact
+            gh release download ${{ github.event.inputs.tag }} --pattern "$OLD_NAME"
+
+            # Rename the file
+            mv "$OLD_NAME" "$NEW_NAME"
+
+            # Delete the old asset
+            gh api --method DELETE repos/${{ github.repository }}/releases/assets/$ASSET_ID
+
+            # Upload the new asset
+            gh release upload ${{ github.event.inputs.tag }} "$NEW_NAME"
+          done
