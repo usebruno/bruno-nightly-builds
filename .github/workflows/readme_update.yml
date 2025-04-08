@@ -33,7 +33,7 @@ jobs:
         run: |
           echo "## Nightly Builds" > README.md
           echo "" >> README.md
-          echo "### Latest ($LATEST_DATE)" >> README.md
+          echo "### Latest ($LATEST_TAG) ($LATEST_DATE)" >> README.md
           echo "| Platform                 | Installer Type     | Download Link |" >> README.md
           echo "|--------------------------|-------------------|--------------|" >> README.md
 
