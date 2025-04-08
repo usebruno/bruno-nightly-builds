@@ -1,6 +1,6 @@
 ## Nightly Builds
 
-### Latest (2025-04-08)
+### Latest (v2.1.0) (2025-04-08)
 | Platform                 | Installer Type     | Download Link |
 |--------------------------|-------------------|--------------|
 | **Windows x64** | Installer (.exe) | [🔗 Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v2.1.0/bruno_2.1.0_x64_win.exe) |
