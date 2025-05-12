@@ -13,6 +13,8 @@
 | **Linux (AppImage)** | Portable (x86_64) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v2.3.0-2025.05.12/bruno_2.3.0_x86_64_linux.AppImage) |
 | **Linux (AppImage)** | Portable (arm64) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v2.3.0-2025.05.12/bruno_2.3.0_arm64_linux.AppImage) |
 | **Linux (RPM - Fedora/RedHat)** | Installer (x86_64) (.rpm) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v2.3.0-2025.05.12/bruno_2.3.0_x86_64_linux.rpm) |
+| **Windows x64** | Portable (.zip) | [🔗 Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v2.3.0-2025.05.12/bruno_2.3.0_x64_win.zip) |
+| **Windows x64** | Installer (.exe) | [🔗 Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v2.3.0-2025.05.12/bruno_2.3.0_x64_win.exe) |
 
 ---
 
