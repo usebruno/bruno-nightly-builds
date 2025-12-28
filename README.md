@@ -9,6 +9,8 @@
 | **Linux (Ubuntu/Debian)** | Installer (arm64) (.deb) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v2.15.1-2025.12.28/bruno_2.15.1_arm64_linux.deb) |
 | **Mac Apple Silicon** | Installer (.dmg) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v2.15.1-2025.12.28/bruno_2.15.1_arm64_mac.dmg) |
 | **Mac Apple Silicon** | Portable (.zip) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v2.15.1-2025.12.28/bruno_2.15.1_arm64_mac.zip) |
+| **Windows x64** | Installer (.exe) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v2.15.1-2025.12.28/bruno_2.15.1_arm64_win.exe) |
+| **Windows x64** | Portable (.zip) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v2.15.1-2025.12.28/bruno_2.15.1_arm64_win.zip) |
 | **Mac x64** | Installer (.dmg) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v2.15.1-2025.12.28/bruno_2.15.1_x64_mac.dmg) |
 | **Mac x64** | Portable (.zip) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v2.15.1-2025.12.28/bruno_2.15.1_x64_mac.zip) |
 | **Windows x64** | Installer (.exe) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v2.15.1-2025.12.28/bruno_2.15.1_x64_win.exe) |
