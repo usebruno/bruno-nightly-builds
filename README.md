@@ -9,7 +9,7 @@
 | **Linux (Ubuntu/Debian)** | Installer (arm64) (.deb) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v3.0.2-2026.01.20/bruno_3.0.2_arm64_linux.deb) |
 | **Mac Apple Silicon** | Installer (.dmg) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v3.0.2-2026.01.20/bruno_3.0.2_arm64_mac.dmg) |
 | **Mac Apple Silicon** | Portable (.zip) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v3.0.2-2026.01.20/bruno_3.0.2_arm64_mac.zip) |
-| **Windows x64** | Installer (.exe) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v3.0.2-2026.01.20/bruno_3.0.2_arm64_win.exe) |
+| **Windows arm64** | Installer (.exe) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v3.0.2-2026.01.20/bruno_3.0.2_arm64_win.exe) |
 | **Mac x64** | Installer (.dmg) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v3.0.2-2026.01.20/bruno_3.0.2_x64_mac.dmg) |
 | **Mac x64** | Portable (.zip) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v3.0.2-2026.01.20/bruno_3.0.2_x64_mac.zip) |
 | **Windows x64** | Installer (.exe) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v3.0.2-2026.01.20/bruno_3.0.2_x64_win.exe) |
