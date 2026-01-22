@@ -3,8 +3,14 @@
 ### Latest (v3.0.2-2026.01.22) (2026-01-22)
 | Platform                 | Installer Type     | Download Link |
 |--------------------------|-------------------|--------------|
+| **Linux (RPM - Fedora/RedHat)** | Installer (aarch64) (.rpm) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v3.0.2-2026.01.22/bruno_3.0.2_aarch64_linux.rpm) |
+| **Linux (Ubuntu/Debian)** | Installer (amd64) (.deb) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v3.0.2-2026.01.22/bruno_3.0.2_amd64_linux.deb) |
+| **Linux (AppImage)** | Portable (arm64) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v3.0.2-2026.01.22/bruno_3.0.2_arm64_linux.AppImage) |
+| **Linux (Ubuntu/Debian)** | Installer (arm64) (.deb) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v3.0.2-2026.01.22/bruno_3.0.2_arm64_linux.deb) |
 | **Windows arm64** | Installer (.exe) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v3.0.2-2026.01.22/bruno_3.0.2_arm64_win.exe) |
 | **Windows x64** | Installer (.exe) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v3.0.2-2026.01.22/bruno_3.0.2_x64_win.exe) |
+| **Linux (AppImage)** | Portable (x86_64) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v3.0.2-2026.01.22/bruno_3.0.2_x86_64_linux.AppImage) |
+| **Linux (RPM - Fedora/RedHat)** | Installer (x86_64) (.rpm) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v3.0.2-2026.01.22/bruno_3.0.2_x86_64_linux.rpm) |
 
 ---
 
