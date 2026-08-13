@@ -10,9 +10,13 @@
 | **Mac Apple Silicon** | Installer (.dmg) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.1.0-2026.08.12/bruno_4.1.0_arm64_mac.dmg) |
 | **Mac Apple Silicon** | Package (.pkg) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.1.0-2026.08.12/bruno_4.1.0_arm64_mac.pkg) |
 | **Mac Apple Silicon** | Portable (.zip) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.1.0-2026.08.12/bruno_4.1.0_arm64_mac.zip) |
+| **Windows arm64** | Installer (.exe) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.1.0-2026.08.12/bruno_4.1.0_arm64_win.exe) |
+| **Windows arm64** | Portable (.zip) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.1.0-2026.08.12/bruno_4.1.0_arm64_win.zip) |
 | **Mac x64** | Installer (.dmg) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.1.0-2026.08.12/bruno_4.1.0_x64_mac.dmg) |
 | **Mac x64** | Package (.pkg) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.1.0-2026.08.12/bruno_4.1.0_x64_mac.pkg) |
 | **Mac x64** | Portable (.zip) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.1.0-2026.08.12/bruno_4.1.0_x64_mac.zip) |
+| **Windows x64** | Installer (.exe) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.1.0-2026.08.12/bruno_4.1.0_x64_win.exe) |
+| **Windows x64** | Portable (.zip) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.1.0-2026.08.12/bruno_4.1.0_x64_win.zip) |
 | **Linux (AppImage)** | Portable (x86_64) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.1.0-2026.08.12/bruno_4.1.0_x86_64_linux.AppImage) |
 | **Linux (RPM - Fedora/RedHat)** | Installer (x86_64) (.rpm) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.1.0-2026.08.12/bruno_4.1.0_x86_64_linux.rpm) |
 | **CLI** | npm Tarball (.tgz) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.1.0-2026.08.12/usebruno-cli-4.1.0.tgz) |
