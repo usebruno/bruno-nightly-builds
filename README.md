@@ -6,6 +6,12 @@
 | **CLI** | npm Tarball (.tgz) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.2.1-2026.10.07/usebruno-cli-4.2.1.tgz) |
 | **Windows arm64** | Portable (.zip) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.2.1-2026.10.07/bruno_4.2.1_arm64_win.zip) |
 | **Windows arm64** | Installer (.exe) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.2.1-2026.10.07/bruno_4.2.1_arm64_win.exe) |
+| **Mac x64** | Package (.pkg) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.2.1-2026.10.07/bruno_4.2.1_x64_mac.pkg) |
+| **Mac x64** | Installer (.dmg) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.2.1-2026.10.07/bruno_4.2.1_x64_mac.dmg) |
+| **Mac Apple Silicon** | Package (.pkg) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.2.1-2026.10.07/bruno_4.2.1_arm64_mac.pkg) |
+| **Mac Apple Silicon** | Portable (.zip) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.2.1-2026.10.07/bruno_4.2.1_arm64_mac.zip) |
+| **Mac Apple Silicon** | Installer (.dmg) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.2.1-2026.10.07/bruno_4.2.1_arm64_mac.dmg) |
+| **Mac x64** | Portable (.zip) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.2.1-2026.10.07/bruno_4.2.1_x64_mac.zip) |
 
 ---
 
