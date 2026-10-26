@@ -18,6 +18,8 @@
 | **Mac Apple Silicon** | Installer (.dmg) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.3.0-2026.10.26/bruno_4.3.0_arm64_mac.dmg) |
 | **Mac x64** | Package (.pkg) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.3.0-2026.10.26/bruno_4.3.0_x64_mac.pkg) |
 | **Mac x64** | Portable (.zip) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.3.0-2026.10.26/bruno_4.3.0_x64_mac.zip) |
+| **Windows arm64** | Installer (.exe) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.3.0-2026.10.26/bruno_4.3.0_arm64_win.exe) |
+| **Windows arm64** | Portable (.zip) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.3.0-2026.10.26/bruno_4.3.0_arm64_win.zip) |
 
 ---
 
