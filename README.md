@@ -14,6 +14,12 @@
 | **Linux (RPM - Fedora/RedHat)** | Installer (aarch64) (.rpm) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.3.0-2026.10.30/bruno_4.3.0_aarch64_linux.rpm) |
 | **Linux (Ubuntu/Debian)** | Installer (amd64) (.deb) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.3.0-2026.10.30/bruno_4.3.0_amd64_linux.deb) |
 | **Linux (RPM - Fedora/RedHat)** | Installer (x86_64) (.rpm) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.3.0-2026.10.30/bruno_4.3.0_x86_64_linux.rpm) |
+| **Mac Apple Silicon** | Portable (.zip) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.3.0-2026.10.30/bruno_4.3.0_arm64_mac.zip) |
+| **Mac Apple Silicon** | Package (.pkg) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.3.0-2026.10.30/bruno_4.3.0_arm64_mac.pkg) |
+| **Mac x64** | Installer (.dmg) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.3.0-2026.10.30/bruno_4.3.0_x64_mac.dmg) |
+| **Mac x64** | Package (.pkg) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.3.0-2026.10.30/bruno_4.3.0_x64_mac.pkg) |
+| **Mac Apple Silicon** | Installer (.dmg) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.3.0-2026.10.30/bruno_4.3.0_arm64_mac.dmg) |
+| **Mac x64** | Portable (.zip) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.3.0-2026.10.30/bruno_4.3.0_x64_mac.zip) |
 
 ---
 
