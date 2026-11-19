@@ -1,24 +1,47 @@
 ## Nightly Builds
 
-### Latest (v4.3.0-2026.11.18) (2026-11-18)
+### Latest (v4.3.0-2026.11.19) (2026-11-19)
 | Platform                 | Installer Type     | Download Link |
 |--------------------------|-------------------|--------------|
-| **CLI** | npm Tarball (.tgz) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.3.0-2026.11.18/usebruno-cli-4.3.0.tgz) |
-| **Windows x64** | Portable (.zip) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.3.0-2026.11.18/bruno_4.3.0_x64_win.zip) |
-| **Windows x64** | Installer (.exe) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.3.0-2026.11.18/bruno_4.3.0_x64_win.exe) |
-| **Linux (AppImage)** | Portable (x86_64) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.3.0-2026.11.18/bruno_4.3.0_x86_64_linux.AppImage) |
-| **Linux (Ubuntu/Debian)** | Installer (arm64) (.deb) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.3.0-2026.11.18/bruno_4.3.0_arm64_linux.deb) |
-| **Linux (AppImage)** | Portable (arm64) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.3.0-2026.11.18/bruno_4.3.0_arm64_linux.AppImage) |
-| **Linux (Ubuntu/Debian)** | Installer (amd64) (.deb) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.3.0-2026.11.18/bruno_4.3.0_amd64_linux.deb) |
-| **Linux (RPM - Fedora/RedHat)** | Installer (aarch64) (.rpm) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.3.0-2026.11.18/bruno_4.3.0_aarch64_linux.rpm) |
-| **Linux (RPM - Fedora/RedHat)** | Installer (x86_64) (.rpm) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.3.0-2026.11.18/bruno_4.3.0_x86_64_linux.rpm) |
-| **Windows arm64** | Portable (.zip) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.3.0-2026.11.18/bruno_4.3.0_arm64_win.zip) |
-| **Windows arm64** | Installer (.exe) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.3.0-2026.11.18/bruno_4.3.0_arm64_win.exe) |
+| **CLI** | npm Tarball (.tgz) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.3.0-2026.11.19/usebruno-cli-4.3.0.tgz) |
+| **Linux (AppImage)** | Portable (x86_64) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.3.0-2026.11.19/bruno_4.3.0_x86_64_linux.AppImage) |
+| **Linux (Ubuntu/Debian)** | Installer (arm64) (.deb) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.3.0-2026.11.19/bruno_4.3.0_arm64_linux.deb) |
+| **Linux (RPM - Fedora/RedHat)** | Installer (aarch64) (.rpm) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.3.0-2026.11.19/bruno_4.3.0_aarch64_linux.rpm) |
+| **Linux (Ubuntu/Debian)** | Installer (amd64) (.deb) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.3.0-2026.11.19/bruno_4.3.0_amd64_linux.deb) |
+| **Linux (AppImage)** | Portable (arm64) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.3.0-2026.11.19/bruno_4.3.0_arm64_linux.AppImage) |
+| **Linux (RPM - Fedora/RedHat)** | Installer (x86_64) (.rpm) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.3.0-2026.11.19/bruno_4.3.0_x86_64_linux.rpm) |
+| **Windows arm64** | Installer (.exe) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.3.0-2026.11.19/bruno_4.3.0_arm64_win.exe) |
+| **Windows arm64** | Portable (.zip) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.3.0-2026.11.19/bruno_4.3.0_arm64_win.zip) |
+| **Mac x64** | Package (.pkg) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.3.0-2026.11.19/bruno_4.3.0_x64_mac.pkg) |
+| **Mac Apple Silicon** | Installer (.dmg) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.3.0-2026.11.19/bruno_4.3.0_arm64_mac.dmg) |
+| **Mac x64** | Installer (.dmg) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.3.0-2026.11.19/bruno_4.3.0_x64_mac.dmg) |
+| **Mac Apple Silicon** | Package (.pkg) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.3.0-2026.11.19/bruno_4.3.0_arm64_mac.pkg) |
+| **Mac Apple Silicon** | Portable (.zip) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.3.0-2026.11.19/bruno_4.3.0_arm64_mac.zip) |
+| **Mac x64** | Portable (.zip) | [Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.3.0-2026.11.19/bruno_4.3.0_x64_mac.zip) |
 
 ---
 
 Previous Releases
 
+<details>
+
+<summary>2026-11-18 - [v4.3.0-2026.11.18]</summary>
+
+| Platform | Installer Type | Download Link |
+|----------|---------------|--------------|
+| **CLI** | npm Tarball (.tgz) | [🔗 Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.3.0-2026.11.18/usebruno-cli-4.3.0.tgz) |
+| **Windows x64** | Portable (.zip) | [🔗 Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.3.0-2026.11.18/bruno_4.3.0_x64_win.zip) |
+| **Windows x64** | Installer (.exe) | [🔗 Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.3.0-2026.11.18/bruno_4.3.0_x64_win.exe) |
+| **Linux (AppImage)** | Portable (x86_64) | [🔗 Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.3.0-2026.11.18/bruno_4.3.0_x86_64_linux.AppImage) |
+| **Linux (Ubuntu/Debian)** | Installer (arm64) (.deb) | [🔗 Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.3.0-2026.11.18/bruno_4.3.0_arm64_linux.deb) |
+| **Linux (AppImage)** | Portable (arm64) | [🔗 Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.3.0-2026.11.18/bruno_4.3.0_arm64_linux.AppImage) |
+| **Linux (Ubuntu/Debian)** | Installer (amd64) (.deb) | [🔗 Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.3.0-2026.11.18/bruno_4.3.0_amd64_linux.deb) |
+| **Linux (RPM - Fedora/RedHat)** | Installer (aarch64) (.rpm) | [🔗 Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.3.0-2026.11.18/bruno_4.3.0_aarch64_linux.rpm) |
+| **Linux (RPM - Fedora/RedHat)** | Installer (x86_64) (.rpm) | [🔗 Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.3.0-2026.11.18/bruno_4.3.0_x86_64_linux.rpm) |
+| **Windows arm64** | Portable (.zip) | [🔗 Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.3.0-2026.11.18/bruno_4.3.0_arm64_win.zip) |
+| **Windows arm64** | Installer (.exe) | [🔗 Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v4.3.0-2026.11.18/bruno_4.3.0_arm64_win.exe) |
+
+</details>
 <details>
 
 <summary>2026-11-17 - [v4.3.0-2026.11.17]</summary>
@@ -2339,24 +2362,5 @@ Previous Releases
 | **Linux (Ubuntu/Debian)** | Installer (arm64) (.deb) | [🔗 Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v3.5.0-2026.07.03/bruno_3.5.0_arm64_linux.deb) |
 | **Linux (Ubuntu/Debian)** | Installer (amd64) (.deb) | [🔗 Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v3.5.0-2026.07.03/bruno_3.5.0_amd64_linux.deb) |
 | **Linux (RPM - Fedora/RedHat)** | Installer (x86_64) (.rpm) | [🔗 Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v3.5.0-2026.07.03/bruno_3.5.0_x86_64_linux.rpm) |
-
-</details>
-<details>
-
-<summary>2026-07-02 - [v3.5.0-2026.07.02]</summary>
-
-| Platform | Installer Type | Download Link |
-|----------|---------------|--------------|
-| **CLI** | npm Tarball (.tgz) | [🔗 Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v3.5.0-2026.07.02/usebruno-cli-3.5.0.tgz) |
-| **Windows x64** | Portable (.zip) | [🔗 Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v3.5.0-2026.07.02/bruno_3.5.0_x64_win.zip) |
-| **Windows x64** | Installer (.exe) | [🔗 Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v3.5.0-2026.07.02/bruno_3.5.0_x64_win.exe) |
-| **Windows arm64** | Installer (.exe) | [🔗 Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v3.5.0-2026.07.02/bruno_3.5.0_arm64_win.exe) |
-| **Windows arm64** | Portable (.zip) | [🔗 Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v3.5.0-2026.07.02/bruno_3.5.0_arm64_win.zip) |
-| **Linux (AppImage)** | Portable (x86_64) | [🔗 Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v3.5.0-2026.07.02/bruno_3.5.0_x86_64_linux.AppImage) |
-| **Linux (Ubuntu/Debian)** | Installer (arm64) (.deb) | [🔗 Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v3.5.0-2026.07.02/bruno_3.5.0_arm64_linux.deb) |
-| **Linux (Ubuntu/Debian)** | Installer (amd64) (.deb) | [🔗 Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v3.5.0-2026.07.02/bruno_3.5.0_amd64_linux.deb) |
-| **Linux (AppImage)** | Portable (arm64) | [🔗 Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v3.5.0-2026.07.02/bruno_3.5.0_arm64_linux.AppImage) |
-| **Linux (RPM - Fedora/RedHat)** | Installer (aarch64) (.rpm) | [🔗 Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v3.5.0-2026.07.02/bruno_3.5.0_aarch64_linux.rpm) |
-| **Linux (RPM - Fedora/RedHat)** | Installer (x86_64) (.rpm) | [🔗 Download](https://github.com/usebruno/bruno-nightly-builds/releases/download/v3.5.0-2026.07.02/bruno_3.5.0_x86_64_linux.rpm) |
 
 </details>
